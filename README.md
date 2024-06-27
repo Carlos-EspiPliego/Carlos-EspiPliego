@@ -3,4 +3,4 @@
 
 # CarlosEspiPliego
 
-![CarlosEspiPliego's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEspiPliego)
+![CarlosEspiPliego's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEspiPliego&theme=dark)
