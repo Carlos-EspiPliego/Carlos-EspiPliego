@@ -32,9 +32,9 @@
 </p>
 
 <h3 align="left">Tecnologías Conocidas 👨🏻‍💻</h3>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,bootstrap,tailwind,git,github,mysql,mongodb,figma,illustrator,photoshop,vscode" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,bootstrap,tailwind,git,github,mysql,mongodb,figma,illustrator,photoshop,vscode&perline=8" />
   </a>
 </p>
 
