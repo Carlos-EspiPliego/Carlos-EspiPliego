@@ -7,10 +7,10 @@
 <h3 align="center">🌐 Frontend Web Developer 💻</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/CarlosEspiPliego" target="_blank"><img align="center" width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=00EAFF"/></a>
-  <a href="https://twitter.com/CarlosEspiPliego" target="_blank"><img align="center" width="32px" alt="Twitter" title="Twitter"  src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=00EAFF"/></a>
+  <a href="https://linkedin.com/in/CarlosEspiPliego" target="_blank"><img align="center" width="64px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=00EAFF"/></a>
+  <a href="https://twitter.com/CarlosEspiPliego" target="_blank"><img align="center" width="64px" alt="Twitter" title="Twitter"  src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=00EAFF"/></a>
   <a href="https://www.frontendmentor.io/profile/CarlosEspiPliego" target="_blank"><img align="center" src="https://img.shields.io/badge/Frontend%20Mentor-3B82F6?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor"/></a>
-  <a href="https://www.instagram.com/CarlosEspiPliego" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=00EAFF" alt="Instagram" title="Instagram"/></a>
+  <a href="https://www.instagram.com/CarlosEspiPliego" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=00EAFF" alt="Instagram" title="Instagram" width="64px"/></a>
 </p>
 
 <br>
