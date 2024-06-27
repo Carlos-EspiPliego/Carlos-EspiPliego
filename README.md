@@ -14,10 +14,9 @@
 
 <br>
 
-<h2 align="left">Sobre Mí 😃</h2>
-
 <p align="left">
-Hola, soy Carlos EspiPliego, un apasionado desarrollador de software con experiencia en la creación de aplicaciones web multiplataforma. Actualmente, estoy cursando mi formación académica en la Universidad Tecnológica de Querétaro y tengo un título de Técnico Superior Universitario por la Universidad Tecnológica Emiliano Zapata (UTEZ). Además, estoy complementando mi formación con estudios en Oracle One Education.
+- 🌱 Actualmente estoy aprendiendo **Desarrollo Web Frontend** en el programa de Oracle One Education + Alura Latam
+- 📫 Puedes contactarme en **carlospliego226@gmail.com** o en cualquiera de mis redes sociales
 </p>
 
 <h3 align="left">Lenguajes que Utilizo</h3>
