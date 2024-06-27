@@ -21,17 +21,7 @@
 - 📫 Puedes contactarme en **carlospliego226@gmail.com** o en cualquiera de mis redes sociales
 </p>
 
-<h3 align="left">Lenguajes que Utilizo</h3>
-
-<p align="left">
-- **JavaScript**<br>
-- **TypeScript**<br>
-- **HTML**<br>
-- **CSS**<br>
-- **Python**
-</p>
-
-<h3 align="left">Tecnologías Conocidas 👨🏻‍💻</h3>
+<h2 align="left">Tecnologías Conocidas 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vite,bootstrap,sass,tailwind,git,github,gitlab,mysql,mongodb,figma,illustrator,photoshop,vscode,postman&perline=9" />
