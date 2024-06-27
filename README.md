@@ -33,7 +33,7 @@
 
 <h3 align="left">Tecnologías Conocidas 👨🏻‍💻</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,reactnative,bootstrap,tailwind,git,github,mysql,mongodb,figma,photoshop,illustrator,vscode" />
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,react,reactnative,bootstrap,tailwind,git,github,mysql,mongodb,figma,photoshop,illustrator,vscode)](https://skillicons.dev)
 </p>
 
 <h2 align="left">GitHub Stats 📊</h2>
