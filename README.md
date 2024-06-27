@@ -33,9 +33,7 @@
 
 <h3 align="left">Tecnologías Conocidas 👨🏻‍💻</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,react,reactnative,bootstrap,tailwind,git,github,mysql,postgresql,mongodb,figma,photoshop,vscode,docker,linux" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,reactnative,bootstrap,tailwind,git,github,mysql,mongodb,figma,photoshop,illustrator,vscode" />
 </p>
 
 <h2 align="left">GitHub Stats 📊</h2>
