@@ -1,2 +1,2 @@
 <!-- Agregar banner -->
-![Banner Carlos EspiPliego]('./assets/devroom.gif')
+![Banner Carlos EspiPliego](./assets/devroom.gif)
