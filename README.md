@@ -13,8 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:carlospliego226@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-00EAFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+  <a href="mailto:carlospliego226@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-00EAFF?style=for-the-badge&logo=gmail&logoColor=rgba(0, 0, 0, 0.5)" alt="Email"/>
+  </a>
 </p>
+
 
 <br>
 
