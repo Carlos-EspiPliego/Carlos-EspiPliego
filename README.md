@@ -12,6 +12,10 @@
   <a href="https://www.instagram.com/CarlosEspiPliego" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=00EAFF" alt="Instagram" title="Instagram" width="48px"/></a>
 </p>
 
+<p align="center">
+  <a href="mailto:carlospliego226@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-00EAFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 <br>
 
 <p align="left">
@@ -40,20 +44,6 @@
 
 <p align="center">
   <img alt="CarlosEspiPliego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEspiPliego&theme=transparent&langs_count=10&hide_border=true"/>
-</p>
-
-<h2 align="left">Proyectos Destacados 👨🏻‍💻</h2>
-
-<p align="left">
-- **[Proyecto 1](https://github.com/CarlosEspiPliego/proyecto1)**: Descripción breve del proyecto.<br>
-- **[Proyecto 2](https://github.com/CarlosEspiPliego/proyecto2)**: Descripción breve del proyecto.<br>
-- **[Proyecto 3](https://github.com/CarlosEspiPliego/proyecto3)**: Descripción breve del proyecto.
-</p>
-
-<h2 align="left">Contacto 📫</h2>
-
-<p align="center">
-  <a href="mailto:carlosespipliego@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <h2 align="left">Visitas al Perfil 👀</h2>
