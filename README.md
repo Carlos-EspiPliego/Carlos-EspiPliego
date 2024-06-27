@@ -1,14 +1,14 @@
 <!-- Agregar banner -->
 ![Banner CarlosEspiPliego](./assets/devroom.gif)
 
-<h1 align="center">!Hola¡👋🏼, me llamo Carlos Espinoza 🚀</h1>
+<h1 align="center">¡Hola!👋🏼, me llamo Carlos Espinoza 🚀</h1>
 
-<h3 align="center">👾Software Development and Management Engineer</h3>
+<h3 align="center">👾 Software Development and Management Engineer 👨🏻‍💻</h3>
 <h3 align="center" style="color: #00EAFF;">🌐 Frontend Web Developer 💻</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/CarlosEspiPliego" target="_blank"><img align="center" width="48px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=00EAFF"/></a>
-  <a href="https://twitter.com/CarlosEspiPliego" target="_blank"><img align="center" width="48px" alt="Twitter" title="Twitter"  src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=00EAFF"/></a>
+  <a href="https://twitter.com/CarlosEspiPlieg" target="_blank"><img align="center" width="48px" alt="Twitter" title="Twitter"  src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=00EAFF"/></a>
   <a href="https://www.instagram.com/CarlosEspiPliego" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=00EAFF" alt="Instagram" title="Instagram" width="48px"/></a>
 </p>
 
