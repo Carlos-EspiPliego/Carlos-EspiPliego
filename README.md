@@ -1,9 +1,10 @@
 <!-- Agregar banner -->
-<p align="center">
-    <img src="https://media.giphy.com/media/7sApq40JDeByB7rNGW/giphy.gif" width="200"/>
-</p>
+![Banner CarlosEspiPliego](./assets/devroom.gif)
 
-<h1 align="center">Carlos EspiPliego</h1>
+<h1 align="center">!Hola¡👋🏼, me Carlos Espinoza 🚀</h1>
+
+<h3 align="center">👾Software Development and Management Engineer</h3>
+<h3 align="center">🌐 Frontend Web Developer 💻</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/CarlosEspiPliego" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
