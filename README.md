@@ -15,6 +15,7 @@
 <br>
 
 <p align="left">
+
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web Frontend** en el programa de Oracle One Education + Alura Latam
 
 - 📫 Puedes contactarme en **carlospliego226@gmail.com** o en cualquiera de mis redes sociales
