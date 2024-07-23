@@ -49,5 +49,5 @@
 <h2 align="left">Visitas al Perfil 👀</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/CarlosEspiPliego/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/Carlos-EspiPliego/count.svg" alt="Visitor Count"/>
 </p>
